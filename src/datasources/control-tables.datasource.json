@@ -1,0 +1,10 @@
+{
+  "name": "controlTables",
+  "connector": "postgresql",
+  "url": "postgres://postgres:admin@localhost/controlDatabase",
+  "host": "localhost",
+  "port": 5432,
+  "user": "postgres",
+  "password": "admin",
+  "database": "controlDatabase"
+}
